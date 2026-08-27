@@ -1,2 +1,3 @@
 This is something.txt for Git Bash Windows.
 This to test if something.txt can be changed.
+This to test if something.txt can be changed in WSL.
