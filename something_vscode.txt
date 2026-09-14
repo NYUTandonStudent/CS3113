@@ -1,1 +1,0 @@
-Does VSCode work? Yes, it does.
